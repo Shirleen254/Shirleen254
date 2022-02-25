@@ -2,7 +2,7 @@
 #### shoes , 12/2/2022
 #### By **nike shoe hub**
 ## Description
-they are places where you can buy any shoes you desire whether online or in person . In cases of online there is a free delivery
+they are online places where you can buy any shoes you desire . In cases of online there is a free delivery
 ## Setup/Installation Requirements
 * sign in to our page
 * go through pictures provided
